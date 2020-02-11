@@ -1,4 +1,4 @@
-1. Install the Python Imaging Library(PIL) using the appropriate version of pip for your Python installation
+1. Install the Python Imaging Library(PIL) using the appropriate version of pip for your Python installation 
 ```
 pip install Pillow
 ```
